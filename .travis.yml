@@ -11,3 +11,4 @@ script:
   - "bundle exec rake jasmine:ci"
 env:
   - PG_USERNAME='postgres'
+
